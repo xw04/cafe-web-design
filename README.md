@@ -15,4 +15,4 @@ A multi-page website designed for a concept cafe, focusing on user experience, r
 - JavaScript (Interactivity)
 
 ## Live Demo
-https://xw04.github.io/cafe-web-design/
+https://xw04.github.io/Cafe-Web-Design/
